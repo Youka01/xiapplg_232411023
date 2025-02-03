@@ -1,0 +1,14 @@
+<!--JavaScript yang diletakkan pada bagian HEAD-->
+<!DOCTYPE html>
+<html>
+<head>
+<script type="text/javascript">
+    function message()
+    {
+    alert("This alert box was called with the onload event") 
+    } 
+</script>
+</head>
+<body onload="message()">
+</body>
+</html>
